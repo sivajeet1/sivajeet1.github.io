@@ -1,0 +1,21 @@
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 50px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Freckle Face', cursive;
+}
+h2 {
+	color: green;
+	font-size: 30px;
+	font-family: 'Lemon', cursive;
+}
+ul {
+  color: yellow;
+  width: 500px;
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  
+}
+html {
+  background-color: #000000;
+}
